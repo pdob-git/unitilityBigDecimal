@@ -4,7 +4,6 @@ import com.synerset.unitility.unitsystem.Unit;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;
-import java.util.function.DoubleUnaryOperator;
 import java.util.function.UnaryOperator;
 
 public enum DistanceUnits implements Unit<Distance> {
